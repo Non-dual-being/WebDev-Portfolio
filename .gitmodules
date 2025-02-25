@@ -1,0 +1,12 @@
+[submodule "0. DaveGray-Tutorials"]
+	path = 0. DaveGray-Tutorials
+	url = https://github.com/Non-dual-being/DaveGrayTutorials.git
+[submodule "1. FutureFilms"]
+	path = 1. FutureFilms
+	url = https://github.com/Non-dual-being/FutureFilms.git
+[submodule "2. GeoFort OnderwijsForm"]
+	path = 2. GeoFort OnderwijsForm
+	url = https://github.com/Non-dual-being/GeoFortOnderwijsFormPublic.git
+[submodule "3. van den Heuvel Webshop"]
+	path = 3. van den Heuvel Webshop
+	url = https://github.com/Non-dual-being/vandenHeuvelWebshopPublic.git

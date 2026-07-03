@@ -10,3 +10,12 @@
 [submodule "3. van den Heuvel Webshop"]
 	path = 3. van den Heuvel Webshop
 	url = https://github.com/Non-dual-being/vandenHeuvelWebshopPublic.git
+[submodule "4. Entree-dashboard/entree-dashboard"]
+	path = 4. Entree-dashboard/entree-dashboard
+	url = https://github.com/Non-dual-being/Entree-Dashboard.git
+[submodule "6. descheppersimon/simon-portfolio"]
+	path = 6. descheppersimon/simon-portfolio
+	url = https://github.com/Non-dual-being/descheppersimon.git
+[submodule "7. deSchepperStudios/kevin-webstudio"]
+	path = 7. deSchepperStudios/kevin-webstudio
+	url = https://github.com/Non-dual-being/kevin-deschepper-webstudio.git
